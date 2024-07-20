@@ -30,7 +30,7 @@ The chatbot is designed to assist students and faculty by providing quick and ac
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/Chatbot-using-AIML-for-college-purposes.git
+git clone https://github.com/karthikkarthi-Ghost/Chatbot-using-AIML-for-college-purposes.-master.git
 cd Chatbot-using-AIML-for-college-purposes
 ```
 
